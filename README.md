@@ -1,5 +1,4 @@
-   👋 Hi, I’m @Andrey-beltran
-- 👀 I’m interested in ...      
-- 🌱 I’m currently learning ...
-You can click the Preview link to take a look at your changes.  
---->
+
+👋 Hola mi nombre es Andrey Beltran de bogotá, Colombia
+Estoy estudiando analisis y desarrollo de sistemas de informacion y en complemento estoy aprendiendo  desarrollo full stack en freecodecamp
+Mi principal objetivo es ser desarrollador full stack.
